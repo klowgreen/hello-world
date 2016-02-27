@@ -1,2 +1,4 @@
 # hello-world
-First GitHub piece
+
+
+Hello all! Kody here, hopefully this goes according to plan.
